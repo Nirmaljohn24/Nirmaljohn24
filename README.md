@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/DB-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Platform-Transcript-FF6600?style=for-the-badge&logo=google-translate&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-Transcript-FF6600?style=for-the-badge&logo=google-translate&logoColor=white" />
 <img src="https://img.shields.io/badge/Hosting-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Tools-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
