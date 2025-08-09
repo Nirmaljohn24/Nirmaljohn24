@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#4CAF50; font-weight:bold;">Johnson Dravid</span></h1>
-<h3 align="center">💻 <b>Software Developer</b> | <b>React Enthusiast</b> | <b>MERN Stack Explorer</b></h3>
+<h3 align="center">💻 <b>Software Developer</b>  | <b>MERN Stack Explorer</b></h3>
 
 <!-- Short Intro -->
 <p align="center">
