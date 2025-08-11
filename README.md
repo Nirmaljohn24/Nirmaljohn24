@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-💡 <i>"Learning to code is a marathon , not a sprint"</i>  
+ <i>Learning to code is like dating your computer 💻❤️ — takes time ⏳, patience 😌, and a lot of debugging 🐛🔧.</i>  
 </p>
