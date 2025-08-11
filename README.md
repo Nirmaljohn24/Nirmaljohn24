@@ -16,7 +16,7 @@
 -  Have hands-on experience in <b>API integration</b> and <b>modern frontend tools</b>  
 -  Short-term goal: <b>Strengthen MERN expertise</b> & contribute to <b>challenging projects</b>  
 -  Long-term vision: Become a <b>Highly Skilled MERN Stack Architect</b> capable of designing and delivering scalable, high-performance applications  
--  Fun fact: I <b>transitioned</b> from <b>Mechanical Engineering</b> to <b>Software Development</b> 🚀
+-  Fun fact: I <b>transitioned</b> from <b>Mechanical Engineering</b> to <b>Software Development</b> 
 
 
 <b>🛠 Tech Stack & Tools</b>  
