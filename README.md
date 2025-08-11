@@ -4,19 +4,19 @@
 
 <!-- Short Intro -->
 <p align="center">
-🚀 <b>Passionate</b> about crafting <b>clean</b>, <b>responsive</b>, and <b>intuitive</b> user experiences.<br>
-📚 Always <b>learning</b>, always <b>building</b>, always <b>improving</b>.  
+ <b>Passionate</b> about crafting <b>clean</b>, <b>responsive</b>, and <b>intuitive</b> user experiences.<br>
+ Always <b>learning</b>, always <b>building</b>, always <b>improving</b>.  
 </p>
 
 <b>🧑‍💻 About Me</b>  
 
-- 🔭 I’m currently working as a <b>Software Developer</b> at <b>Pixalive</b>  
-- 🌱 Exploring <b>MERN Stack</b> & diving deeper into <b>React.js</b> and <b>state management</b>  
-- 💡 Skilled in <b>React, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Node.js, Express.js, MongoDB, GitHub, Postman, Firebase</b>  
-- 🛠 Have hands-on experience in <b>API integration</b> and <b>modern frontend tools</b>  
-- 🎯 Short-term goal: <b>Strengthen MERN expertise</b> & contribute to <b>challenging projects</b>  
-- 🌟 Long-term vision: Become a <b>Highly Skilled MERN Stack Architect</b> capable of designing and delivering scalable, high-performance applications  
-- ⚡ Fun fact: I <b>transitioned</b> from <b>Mechanical Engineering</b> to <b>Software Development</b> 🚀
+-  I’m currently working as a <b>Software Developer</b> at <b>Pixalive</b>  
+-  Exploring <b>MERN Stack</b> & diving deeper into <b>React.js</b> and <b>state management</b>  
+-  Skilled in <b>React, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Node.js, Express.js, MongoDB, GitHub, Postman, Firebase</b>  
+-  Have hands-on experience in <b>API integration</b> and <b>modern frontend tools</b>  
+-  Short-term goal: <b>Strengthen MERN expertise</b> & contribute to <b>challenging projects</b>  
+-  Long-term vision: Become a <b>Highly Skilled MERN Stack Architect</b> capable of designing and delivering scalable, high-performance applications  
+-  Fun fact: I <b>transitioned</b> from <b>Mechanical Engineering</b> to <b>Software Development</b> 🚀
 
 
 <b>🛠 Tech Stack & Tools</b>  
