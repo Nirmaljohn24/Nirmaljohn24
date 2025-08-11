@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-💡 <i>"Code is like humor — when you have to explain it, it’s bad."</i>  
+💡 <i>"Learning to code is a marathon , not a sprint"</i>  
 </p>
